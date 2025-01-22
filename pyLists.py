@@ -8,7 +8,7 @@ print(thisnewlist)
 those_his_new_list = list(("pinapple", "pen", "pineapplepen", "applepen"))
 print(those_his_new_list)
 those_his_new_list.append("pineapplepenapplepen")
-
+print(those_his_new_list)
 #  List is a collection which is ordered 
 #  and changeable. Allows duplicate members.
 #  Tuple is a collection which is ordered
